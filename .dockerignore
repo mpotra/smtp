@@ -1,0 +1,8 @@
+node_modules
+_build
+deps
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+.git
+.gitignore
+.travis.yml
